@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Uzivatel\\.nuget\\packages\\": {}
+    "C:\\Users\\macha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\aaa\\IS-2024\\github-vm-is-2024-sk1\\IS_Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj",
+      "projectUniqueName": "C:\\aaa\\github-vm-is-2024-sk1\\IS_Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj",
       "projectName": "001-prvni-program-vypis-rady",
-      "projectPath": "C:\\aaa\\IS-2024\\github-vm-is-2024-sk1\\IS_Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj",
-      "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-      "outputPath": "C:\\aaa\\IS-2024\\github-vm-is-2024-sk1\\IS_Projekty\\001-prvni-program-vypis-rady\\obj\\",
+      "projectPath": "C:\\aaa\\github-vm-is-2024-sk1\\IS_Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj",
+      "packagesPath": "C:\\Users\\macha\\.nuget\\packages\\",
+      "outputPath": "C:\\aaa\\github-vm-is-2024-sk1\\IS_Projekty\\001-prvni-program-vypis-rady\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\macha\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
