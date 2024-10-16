@@ -1,0 +1,15 @@
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.exe
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.deps.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.runtimeconfig.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.AssemblyInfoInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.AssemblyInfo.cs
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.csproj.CoreCompileInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.sourcelink.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program002a-soucet-cifer\obj\Debug\net8.0\refint\program002a-soucet-cifer.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.genruntimeconfig.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program002a-soucet-cifer\obj\Debug\net8.0\ref\program002a-soucet-cifer.dll
