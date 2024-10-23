@@ -1,6 +1,6 @@
 ﻿     string again = "a";
 
-        while(again=="a") { //dve rovnáse jsou porovnání
+        while(again=="a") { 
             Console.Clear();
             Console.WriteLine("**************************"); 
             Console.WriteLine("**** Generátor pseudonáhodných čísel ****");  
@@ -34,6 +34,17 @@
             Console.WriteLine("Počet čísel: {0}; dolní mez {1}, horní mez: {2}", n,dm,hm);
             Console.WriteLine("=======================================");
             Console.WriteLine();
+
+            //deklarace pole
+            int[] myArray = new int[n];
+
+            Random randomNumber = new Random();
+
+            Console.WriteLine("\n\nNáhodná čísla");
+            for(int i=0; i<n; i++) {
+                myArray[i] = randomNumber.Next(dm, hm+1);
+                Console.Write("{0}; ", myArray[i]);
+            }
 
 
 
