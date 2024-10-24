@@ -14,6 +14,12 @@ class Program {
             Console.WriteLine("**************************"); 
             Console.WriteLine();
 
+                Console.Write("Zadejte výšku obrazce (celé číslo): ");
+            int height;
+            while(!int.TryParse(Console.ReadLine(), out height)) {
+            Console.Write("Nezadali jste celé číslo. Zadejte výšku obrazce znovu: ");
+            }
+
         
 
             Console.WriteLine();
