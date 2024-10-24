@@ -12,6 +12,7 @@
 
 
 
+
                Console.Write("Zadejte výšku obrazce (celé číslo): ");
             int height;
             while(!int.TryParse(Console.ReadLine(), out height)) {
@@ -20,6 +21,8 @@
             }
 
         
+
+
             for (int i = 1; i <= height; i++) {
                 for (int j = 1; j <= i; j++){
                     System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100));
@@ -29,6 +32,7 @@
         }
 
         
+
 
             Console.WriteLine();
             Console.WriteLine("Pro opakování programu stiskněte klávesu A");
