@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "program003c-obrazec", "program003c-obrazec.csproj", "{1C778C75-249C-49CC-836F-9F81AFD392AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C778C75-249C-49CC-836F-9F81AFD392AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C778C75-249C-49CC-836F-9F81AFD392AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C778C75-249C-49CC-836F-9F81AFD392AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C778C75-249C-49CC-836F-9F81AFD392AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {003E5740-EC20-456C-B142-4BFC96AD8040}
+	EndGlobalSection
+EndGlobal

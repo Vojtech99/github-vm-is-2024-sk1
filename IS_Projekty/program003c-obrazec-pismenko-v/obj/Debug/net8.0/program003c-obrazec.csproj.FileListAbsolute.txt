@@ -1,0 +1,15 @@
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003c-obrazec\obj\Debug\net8.0\program003c-obrazec.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003c-obrazec\obj\Debug\net8.0\program003c-obrazec.AssemblyInfoInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003c-obrazec\obj\Debug\net8.0\program003c-obrazec.AssemblyInfo.cs
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003c-obrazec\obj\Debug\net8.0\program003c-obrazec.csproj.CoreCompileInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003c-obrazec\obj\Debug\net8.0\program003c-obrazec.sourcelink.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003c-obrazec\bin\Debug\net8.0\program003c-obrazec.exe
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003c-obrazec\bin\Debug\net8.0\program003c-obrazec.deps.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003c-obrazec\bin\Debug\net8.0\program003c-obrazec.runtimeconfig.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003c-obrazec\bin\Debug\net8.0\program003c-obrazec.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003c-obrazec\bin\Debug\net8.0\program003c-obrazec.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003c-obrazec\obj\Debug\net8.0\program003c-obrazec.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003c-obrazec\obj\Debug\net8.0\refint\program003c-obrazec.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003c-obrazec\obj\Debug\net8.0\program003c-obrazec.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003c-obrazec\obj\Debug\net8.0\program003c-obrazec.genruntimeconfig.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003c-obrazec\obj\Debug\net8.0\ref\program003c-obrazec.dll
