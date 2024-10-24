@@ -2,11 +2,11 @@
 
         while(again=="a") { 
             Console.Clear();
-            Console.WriteLine("*******************************"); 
-            Console.WriteLine("**** Pravoúhlý trojuhelník ****");  
-            Console.WriteLine("*******************************"); 
-            Console.WriteLine("******* Vojtěch Macháček ******");   
-            Console.WriteLine("*******************************"); 
+            Console.WriteLine("********************************"); 
+            Console.WriteLine("***** Pravoúhlý trojuhelník ****");  
+            Console.WriteLine("********************************"); 
+            Console.WriteLine("******* Vojtěch Macháček *******");   
+            Console.WriteLine("********************************"); 
             Console.WriteLine();
 
 
