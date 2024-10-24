@@ -1,0 +1,15 @@
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003e-obrazec-\bin\Debug\net8.0\program003e-obrazec-.exe
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003e-obrazec-\bin\Debug\net8.0\program003e-obrazec-.deps.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003e-obrazec-\bin\Debug\net8.0\program003e-obrazec-.runtimeconfig.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003e-obrazec-\bin\Debug\net8.0\program003e-obrazec-.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003e-obrazec-\bin\Debug\net8.0\program003e-obrazec-.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003e-obrazec-\obj\Debug\net8.0\program003e-obrazec-.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003e-obrazec-\obj\Debug\net8.0\program003e-obrazec-.AssemblyInfoInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003e-obrazec-\obj\Debug\net8.0\program003e-obrazec-.AssemblyInfo.cs
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003e-obrazec-\obj\Debug\net8.0\program003e-obrazec-.csproj.CoreCompileInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003e-obrazec-\obj\Debug\net8.0\program003e-obrazec-.sourcelink.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003e-obrazec-\obj\Debug\net8.0\program003e-obrazec-.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003e-obrazec-\obj\Debug\net8.0\refint\program003e-obrazec-.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003e-obrazec-\obj\Debug\net8.0\program003e-obrazec-.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003e-obrazec-\obj\Debug\net8.0\program003e-obrazec-.genruntimeconfig.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program003e-obrazec-\obj\Debug\net8.0\ref\program003e-obrazec-.dll
