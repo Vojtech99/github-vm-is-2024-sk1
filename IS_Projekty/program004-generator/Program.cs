@@ -1,15 +1,17 @@
 ﻿using System.ComponentModel;
 using System.Formats.Asn1;
 
+
+
 string again = "a";
 
         while(again=="a") { 
             Console.Clear();
-            Console.WriteLine("**************************"); 
+            Console.WriteLine("*****************************************"); 
             Console.WriteLine("**** Generátor pseudonáhodných čísel ****");  
-            Console.WriteLine("**************************"); 
-            Console.WriteLine("**** Vojtěch Macháček ****");   
-            Console.WriteLine("**************************"); 
+            Console.WriteLine("*****************************************"); 
+            Console.WriteLine("************ Vojtěch Macháček ***********");   
+            Console.WriteLine("*****************************************"); 
             Console.WriteLine();
 
 
