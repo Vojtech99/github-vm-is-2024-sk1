@@ -1,12 +1,15 @@
-﻿string again = "a";
+﻿using System.Security.Authentication.ExtendedProtection;
+using System.Diagnostics;
+
+string again = "a";
         
         while(again == "a") {
             Console.Clear();
-            Console.WriteLine("*******************************************");
-            Console.WriteLine("***** Generátor pseudonáhodných čísel *****");
-            Console.WriteLine("*******************************************");
-            Console.WriteLine("************* Tomáš Žižka *****************");
-            Console.WriteLine("*******************************************");
+            Console.WriteLine("***********************");
+            Console.WriteLine("***** Bubble sort *****");
+            Console.WriteLine("***********************");
+            Console.WriteLine("** Vojtěch Macháček ***");
+            Console.WriteLine("***********************");
             Console.WriteLine();
             Console.Write("Zadejte počet generovaných čísel (celé číslo): ");
             int n;
@@ -40,22 +43,43 @@
                 Console.Write("{0}; ", myArray[i]); 
             }
 
+            Stopwatch myStopwatch = new Stopwatch();
+
+            int myCompare = 0;
+            int myChange = 0;
+
+            myStopwatch.Start();
             for(int i = 0; i < n-1; i++){
                 for(int j = 0; j < n-i-1;j++){
+                    myCompare++;
                     if(myArray[j] < myArray[j+1]){ //sestupné zařezení a když dáme > tak je to vzestupné
                         int tmp = myArray[j+1];
                         myArray[j+1] = myArray[j];
                         myArray[j] = tmp;
+                        myChange++;
 
                     }
                 }
             }
+            myStopwatch.Stop();    
 
             Console.WriteLine("\n\n\nSeřazené pole");
             for(int i=0; i<n; i++) {
                 Console.Write("{0}; ", myArray[i]); 
             }
 
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.WriteLine("\n\nČas potřebný na seřazení pole pomocí algoritmu Bubble sort: {0}", myStopwatch.Elapsed);
+
+            Console.ResetColor();
+
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.WriteLine("\nPočet porovnání: {0}", myCompare);
+            Console.WriteLine("Počet prohození: {0}", myChange);
+
+            Console.ResetColor();
 
             Console.WriteLine();
             Console.WriteLine("\n\nPro opakování programu stiskněte klávesu A");
