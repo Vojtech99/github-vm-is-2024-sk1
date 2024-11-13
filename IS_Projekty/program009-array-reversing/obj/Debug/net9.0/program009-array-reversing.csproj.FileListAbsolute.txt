@@ -1,0 +1,15 @@
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program009-array-reversing\bin\Debug\net9.0\program009-array-reversing.exe
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program009-array-reversing\bin\Debug\net9.0\program009-array-reversing.deps.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program009-array-reversing\bin\Debug\net9.0\program009-array-reversing.runtimeconfig.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program009-array-reversing\bin\Debug\net9.0\program009-array-reversing.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program009-array-reversing\bin\Debug\net9.0\program009-array-reversing.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program009-array-reversing\obj\Debug\net9.0\program009-array-reversing.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program009-array-reversing\obj\Debug\net9.0\program009-array-reversing.AssemblyInfoInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program009-array-reversing\obj\Debug\net9.0\program009-array-reversing.AssemblyInfo.cs
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program009-array-reversing\obj\Debug\net9.0\program009-array-reversing.csproj.CoreCompileInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program009-array-reversing\obj\Debug\net9.0\program009-array-reversing.sourcelink.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program009-array-reversing\obj\Debug\net9.0\program009-array-reversing.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program009-array-reversing\obj\Debug\net9.0\refint\program009-array-reversing.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program009-array-reversing\obj\Debug\net9.0\program009-array-reversing.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program009-array-reversing\obj\Debug\net9.0\program009-array-reversing.genruntimeconfig.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program009-array-reversing\obj\Debug\net9.0\ref\program009-array-reversing.dll
