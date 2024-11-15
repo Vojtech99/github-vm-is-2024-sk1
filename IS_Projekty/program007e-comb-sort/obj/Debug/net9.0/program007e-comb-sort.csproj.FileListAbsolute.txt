@@ -1,0 +1,15 @@
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007e-comb-sort\bin\Debug\net9.0\program007e-comb-sort.exe
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007e-comb-sort\bin\Debug\net9.0\program007e-comb-sort.deps.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007e-comb-sort\bin\Debug\net9.0\program007e-comb-sort.runtimeconfig.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007e-comb-sort\bin\Debug\net9.0\program007e-comb-sort.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007e-comb-sort\bin\Debug\net9.0\program007e-comb-sort.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007e-comb-sort\obj\Debug\net9.0\program007e-comb-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007e-comb-sort\obj\Debug\net9.0\program007e-comb-sort.AssemblyInfoInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007e-comb-sort\obj\Debug\net9.0\program007e-comb-sort.AssemblyInfo.cs
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007e-comb-sort\obj\Debug\net9.0\program007e-comb-sort.csproj.CoreCompileInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007e-comb-sort\obj\Debug\net9.0\program007e-comb-sort.sourcelink.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007e-comb-sort\obj\Debug\net9.0\program007e-comb-sort.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007e-comb-sort\obj\Debug\net9.0\refint\program007e-comb-sort.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007e-comb-sort\obj\Debug\net9.0\program007e-comb-sort.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007e-comb-sort\obj\Debug\net9.0\program007e-comb-sort.genruntimeconfig.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007e-comb-sort\obj\Debug\net9.0\ref\program007e-comb-sort.dll
