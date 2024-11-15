@@ -1,0 +1,15 @@
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007b-selection-sort\bin\Debug\net9.0\program007b-selection-sort.exe
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007b-selection-sort\bin\Debug\net9.0\program007b-selection-sort.deps.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007b-selection-sort\bin\Debug\net9.0\program007b-selection-sort.runtimeconfig.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007b-selection-sort\bin\Debug\net9.0\program007b-selection-sort.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007b-selection-sort\bin\Debug\net9.0\program007b-selection-sort.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007b-selection-sort\obj\Debug\net9.0\program007b-selection-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007b-selection-sort\obj\Debug\net9.0\program007b-selection-sort.AssemblyInfoInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007b-selection-sort\obj\Debug\net9.0\program007b-selection-sort.AssemblyInfo.cs
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007b-selection-sort\obj\Debug\net9.0\program007b-selection-sort.csproj.CoreCompileInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007b-selection-sort\obj\Debug\net9.0\program007b-selection-sort.sourcelink.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007b-selection-sort\obj\Debug\net9.0\program007b-selection-sort.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007b-selection-sort\obj\Debug\net9.0\refint\program007b-selection-sort.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007b-selection-sort\obj\Debug\net9.0\program007b-selection-sort.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007b-selection-sort\obj\Debug\net9.0\program007b-selection-sort.genruntimeconfig.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007b-selection-sort\obj\Debug\net9.0\ref\program007b-selection-sort.dll
