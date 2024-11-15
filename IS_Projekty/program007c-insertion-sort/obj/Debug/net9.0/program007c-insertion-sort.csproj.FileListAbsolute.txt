@@ -1,0 +1,15 @@
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007c-insertion-sort\bin\Debug\net9.0\program007c-insertion-sort.exe
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007c-insertion-sort\bin\Debug\net9.0\program007c-insertion-sort.deps.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007c-insertion-sort\bin\Debug\net9.0\program007c-insertion-sort.runtimeconfig.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007c-insertion-sort\bin\Debug\net9.0\program007c-insertion-sort.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007c-insertion-sort\bin\Debug\net9.0\program007c-insertion-sort.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007c-insertion-sort\obj\Debug\net9.0\program007c-insertion-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007c-insertion-sort\obj\Debug\net9.0\program007c-insertion-sort.AssemblyInfoInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007c-insertion-sort\obj\Debug\net9.0\program007c-insertion-sort.AssemblyInfo.cs
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007c-insertion-sort\obj\Debug\net9.0\program007c-insertion-sort.csproj.CoreCompileInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007c-insertion-sort\obj\Debug\net9.0\program007c-insertion-sort.sourcelink.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007c-insertion-sort\obj\Debug\net9.0\program007c-insertion-sort.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007c-insertion-sort\obj\Debug\net9.0\refint\program007c-insertion-sort.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007c-insertion-sort\obj\Debug\net9.0\program007c-insertion-sort.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007c-insertion-sort\obj\Debug\net9.0\program007c-insertion-sort.genruntimeconfig.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007c-insertion-sort\obj\Debug\net9.0\ref\program007c-insertion-sort.dll
