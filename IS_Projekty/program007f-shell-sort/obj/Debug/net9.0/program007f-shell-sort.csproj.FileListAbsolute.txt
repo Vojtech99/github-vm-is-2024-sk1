@@ -1,0 +1,15 @@
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007f-shell-sort\bin\Debug\net9.0\program007f-shell-sort.exe
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007f-shell-sort\bin\Debug\net9.0\program007f-shell-sort.deps.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007f-shell-sort\bin\Debug\net9.0\program007f-shell-sort.runtimeconfig.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007f-shell-sort\bin\Debug\net9.0\program007f-shell-sort.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007f-shell-sort\bin\Debug\net9.0\program007f-shell-sort.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007f-shell-sort\obj\Debug\net9.0\program007f-shell-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007f-shell-sort\obj\Debug\net9.0\program007f-shell-sort.AssemblyInfoInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007f-shell-sort\obj\Debug\net9.0\program007f-shell-sort.AssemblyInfo.cs
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007f-shell-sort\obj\Debug\net9.0\program007f-shell-sort.csproj.CoreCompileInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007f-shell-sort\obj\Debug\net9.0\program007f-shell-sort.sourcelink.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007f-shell-sort\obj\Debug\net9.0\program007f-shell-sort.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007f-shell-sort\obj\Debug\net9.0\refint\program007f-shell-sort.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007f-shell-sort\obj\Debug\net9.0\program007f-shell-sort.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007f-shell-sort\obj\Debug\net9.0\program007f-shell-sort.genruntimeconfig.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007f-shell-sort\obj\Debug\net9.0\ref\program007f-shell-sort.dll
