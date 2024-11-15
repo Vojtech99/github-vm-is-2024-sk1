@@ -1,0 +1,15 @@
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007d-shaker-sort\bin\Debug\net9.0\program007d-shaker-sort.exe
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007d-shaker-sort\bin\Debug\net9.0\program007d-shaker-sort.deps.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007d-shaker-sort\bin\Debug\net9.0\program007d-shaker-sort.runtimeconfig.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007d-shaker-sort\bin\Debug\net9.0\program007d-shaker-sort.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007d-shaker-sort\bin\Debug\net9.0\program007d-shaker-sort.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007d-shaker-sort\obj\Debug\net9.0\program007d-shaker-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007d-shaker-sort\obj\Debug\net9.0\program007d-shaker-sort.AssemblyInfoInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007d-shaker-sort\obj\Debug\net9.0\program007d-shaker-sort.AssemblyInfo.cs
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007d-shaker-sort\obj\Debug\net9.0\program007d-shaker-sort.csproj.CoreCompileInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007d-shaker-sort\obj\Debug\net9.0\program007d-shaker-sort.sourcelink.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007d-shaker-sort\obj\Debug\net9.0\program007d-shaker-sort.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007d-shaker-sort\obj\Debug\net9.0\refint\program007d-shaker-sort.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007d-shaker-sort\obj\Debug\net9.0\program007d-shaker-sort.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007d-shaker-sort\obj\Debug\net9.0\program007d-shaker-sort.genruntimeconfig.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program007d-shaker-sort\obj\Debug\net9.0\ref\program007d-shaker-sort.dll
