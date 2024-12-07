@@ -1,0 +1,15 @@
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program011b-vypocet-ln2\bin\Debug\net9.0\program011b-vypocet-ln2.exe
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program011b-vypocet-ln2\bin\Debug\net9.0\program011b-vypocet-ln2.deps.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program011b-vypocet-ln2\bin\Debug\net9.0\program011b-vypocet-ln2.runtimeconfig.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program011b-vypocet-ln2\bin\Debug\net9.0\program011b-vypocet-ln2.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program011b-vypocet-ln2\bin\Debug\net9.0\program011b-vypocet-ln2.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\program011b-vypocet-ln2.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\program011b-vypocet-ln2.AssemblyInfoInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\program011b-vypocet-ln2.AssemblyInfo.cs
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\program011b-vypocet-ln2.csproj.CoreCompileInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\program011b-vypocet-ln2.sourcelink.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\program011b-vypocet-ln2.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\refint\program011b-vypocet-ln2.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\program011b-vypocet-ln2.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\program011b-vypocet-ln2.genruntimeconfig.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program011b-vypocet-ln2\obj\Debug\net9.0\ref\program011b-vypocet-ln2.dll
