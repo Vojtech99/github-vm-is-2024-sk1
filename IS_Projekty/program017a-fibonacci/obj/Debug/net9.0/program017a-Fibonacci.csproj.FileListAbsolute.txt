@@ -1,0 +1,15 @@
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program017a-Fibonacci\bin\Debug\net9.0\program017a-Fibonacci.exe
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program017a-Fibonacci\bin\Debug\net9.0\program017a-Fibonacci.deps.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program017a-Fibonacci\bin\Debug\net9.0\program017a-Fibonacci.runtimeconfig.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program017a-Fibonacci\bin\Debug\net9.0\program017a-Fibonacci.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program017a-Fibonacci\bin\Debug\net9.0\program017a-Fibonacci.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program017a-Fibonacci\obj\Debug\net9.0\program017a-Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program017a-Fibonacci\obj\Debug\net9.0\program017a-Fibonacci.AssemblyInfoInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program017a-Fibonacci\obj\Debug\net9.0\program017a-Fibonacci.AssemblyInfo.cs
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program017a-Fibonacci\obj\Debug\net9.0\program017a-Fibonacci.csproj.CoreCompileInputs.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program017a-Fibonacci\obj\Debug\net9.0\program017a-Fibonacci.sourcelink.json
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program017a-Fibonacci\obj\Debug\net9.0\program017a-Fibonacci.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program017a-Fibonacci\obj\Debug\net9.0\refint\program017a-Fibonacci.dll
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program017a-Fibonacci\obj\Debug\net9.0\program017a-Fibonacci.pdb
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program017a-Fibonacci\obj\Debug\net9.0\program017a-Fibonacci.genruntimeconfig.cache
+C:\aaa\github-vm-is-2024-sk1-1\IS_Projekty\program017a-Fibonacci\obj\Debug\net9.0\ref\program017a-Fibonacci.dll
