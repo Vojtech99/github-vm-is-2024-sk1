@@ -9,6 +9,7 @@ class Program
         
         while (again == "a")
         {
+            
             Console.Clear();
             Console.WriteLine("*******************************************");
             Console.WriteLine("***** Generátor Fibonacciho posloupnosti *****");
